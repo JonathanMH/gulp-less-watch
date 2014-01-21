@@ -1,0 +1,18 @@
+{
+  "name": "gulp-less-watch",
+  "version": "0.0.1",
+  "description": "A quick demo of how to compile less files with gulp",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "~3.4.0",
+    "gulp-less": "~1.1.10",
+    "gulp-util": "~2.2.12",
+    "gulp-watch": "~0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan M. Hethey",
+  "license": "ISC"
+}
